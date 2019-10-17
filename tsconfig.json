@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "removeComments": false,
+    "target": "es5",
+    "module": "es6",
+    "declaration": true,
+    "sourceMap": true,
+    "strict": true,
+    "noImplicitAny": false,
+    "outDir": "./dist/",
+    "lib": ["es2015"],
+    "moduleResolution": "node"
+  },
+  
+  "include": ["./src/**/*"],
+}
