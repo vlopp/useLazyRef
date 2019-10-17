@@ -1,6 +1,6 @@
 {
   "name": "uselazyref",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A useRef React hook that supports lazy initialization.",
   "main": "dist/useLazyRef.js",
   "repository": "https://github.com/vlopp/useLazyRef",
@@ -13,6 +13,7 @@
     "@types/react": ">=16.8.2",
     "typescript": ">=3.6.4"
   },
+  "keywords": ["react", "react-hooks", "useref lazy"],
   "peerDependencies": {
     "react": ">=16.8.2"
   }
