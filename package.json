@@ -1,6 +1,6 @@
 {
   "name": "uselazyref",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A useRef React hook that supports lazy initialization.",
   "main": "dist/useLazyRef.js",
   "repository": "https://github.com/vlopp/useLazyRef",
